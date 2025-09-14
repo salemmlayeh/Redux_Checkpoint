@@ -1,0 +1,18 @@
+.userlist {
+  background: #f9f9f9;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.user-card {
+  list-style: none;
+  padding: 12px;
+  margin-bottom: 10px;
+  background: white;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.user-card h3 {
+  margin: 0 0 6px 0;
+}
